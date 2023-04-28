@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+#button-1{
+	color:blue;
+}
+#button-2{
+	color:white;
+}
+#button-3{
+	color:green;
+}
+#button-4{
+	color:red;
+}
+#button-5{
+	color:yellow;
+}
+#button-6{
+	color:aqua;
+}
+#button-7{
+	color:white;
+}
+#button-8{
+	color:blue;
+}
+#bootstrap{
+	width:100%;
+	border:1px solid black;
+	background-color:white;
+	
+}
